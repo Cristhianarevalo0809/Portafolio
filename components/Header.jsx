@@ -14,6 +14,7 @@ import {
 } from '@/components/ui/sheet';
 
 import NavLinks from './NavLinks';
+import Link from 'next/link';
 
 const Header = () => {
 	return (
@@ -44,7 +45,9 @@ const Header = () => {
 							<div>
 								<button className="btn btn-lg btn-tertiary mb-16">
 									<div className="flex items-center gap-3">
-										<span>Descargar Cv.</span>
+										<Link href="/pdf/my_cv.pdf" download="my_cv.pdf">
+											<span>Descargar Cv.</span>
+										</Link>
 										<MdFileDownload className="text-xl" />
 									</div>
 								</button>

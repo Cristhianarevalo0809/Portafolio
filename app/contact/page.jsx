@@ -38,8 +38,12 @@ const Contact = () => {
 									Ponte en <span className="text-accent">Contacto</span>
 								</h2>
 								<p className="max-w-[480px]">
-									Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-									Doloremque, iste?
+									<span className="text-accent">
+										¿Tienes alguna idea o proyecto en mente?
+									</span>{' '}
+									<br />
+									Estoy disponible para colaboraciones, propuestas o simplemente
+									para charlar sobre desarrollo. ¡No dudes en escribirme!
 								</p>
 							</div>
 							{/* info */}

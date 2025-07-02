@@ -23,8 +23,7 @@ const projects = [
 		image: '/assets/work/thumb1.png',
 		demoLink: 'https://tecni-auto.netlify.app/',
 		repoLink: 'https://github.com/Cristhianarevalo0809/TecniAuto',
-		tech: ['React', 'Tailwind CSS', 'Framer Motion'],
-		git: '',
+		tech: ['Next.js', 'Tailwind CSS'],
 	},
 	{
 		id: 2,
@@ -44,7 +43,7 @@ const projects = [
 		image: '/assets/work/thumb3.png',
 		demoLink: 'https://rick-app-sanchez.netlify.app/',
 		repoLink: 'https://github.com/Cristhianarevalo0809/Rick-and-morty',
-		tech: ['React', 'Tailwind CSS', 'Framer Motion'],
+		tech: ['React', 'Tailwind CSS'],
 	},
 	{
 		id: 4,
@@ -54,7 +53,7 @@ const projects = [
 		image: '/assets/work/thumb4.png',
 		demoLink: 'https://climatex-app.netlify.app/',
 		repoLink: 'https://github.com/Cristhianarevalo0809/climatex-app',
-		tech: ['React', 'Tailwind CSS', 'Framer Motion'],
+		tech: ['React', 'Tailwind CSS'],
 	},
 ];
 
