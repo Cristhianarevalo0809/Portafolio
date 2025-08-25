@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import {
-	BiLogoDribbble,
+	BiLogoGithub,
 	BiLogoFacebook,
 	BiLogoInstagram,
 	BiLogoLinkedin,
@@ -20,8 +20,8 @@ const socials = [
 		path: 'https://www.linkedin.com/in/cristhian-arevalo-61bb01301/',
 	},
 	{
-		icon: <BiLogoDribbble />,
-		path: 'https://dribbble.com/cristhian-arevalo-pacheco',
+		icon: <BiLogoGithub />,
+		path: 'https://github.com/Cristhianarevalo0809',
 	},
 ];
 

@@ -1,7 +1,7 @@
 const journey = [
 	{
-		years: '2025 - Presente',
-		role: 'Estudiante',
+		years: '2025 - Finalizado',
+		role: 'Desarrollador Web',
 		institucion: 'Academlo',
 	},
 	{
@@ -11,7 +11,7 @@ const journey = [
 	},
 	{
 		years: '2020-2025',
-		role: 'Contador Publico',
+		role: 'contador publico',
 		institucion: 'Universidad Francisco de Paula Santander',
 	},
 ];
@@ -19,7 +19,7 @@ const journey = [
 const Journey = () => {
 	return (
 		<div className="flex flex-col">
-			<h2 className="h2 mb-8">Educacion</h2>
+			<h2 className="h2 mb-8">Educación</h2>
 			{journey.map((item, index) => {
 				const { institucion, role, years } = item;
 				return (

@@ -12,7 +12,7 @@ const Info = () => {
 				<div className="w-[280px] flex items-center gap-4 ">
 					<HiOutlineUser className="text-2xl mt-1 text-accent" />
 					<div>
-						<p className="text-lg">Fecha de Nacimien</p>
+						<p className="text-lg">Fecha de Nacimiento</p>
 						<p>12 Diciembre 1994</p>
 					</div>
 				</div>
@@ -29,14 +29,14 @@ const Info = () => {
 				<div className="w-[280px] flex items-center gap-4 ">
 					<HiOutlinePhone className="text-2xl mt-1 text-accent" />
 					<div>
-						<p className="text-lg">Telefono</p>
+						<p className="text-lg">Teléfono</p>
 						<p>(+57)318 692 2681</p>
 					</div>
 				</div>
 				<div className="w-[280px] flex items-center gap-4 ">
 					<HiOutlineLocationMarker className="text-2xl mt-1 text-accent" />
 					<div>
-						<p className="text-lg">Localizacion</p>
+						<p className="text-lg">Localización</p>
 						<p>Ocaña, Colombia</p>
 					</div>
 				</div>
