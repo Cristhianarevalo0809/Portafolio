@@ -10,7 +10,7 @@ const journey = [
 		institucion: 'SENA Colombia',
 	},
 	{
-		years: '2020-2025',
+		years: '2020-2024',
 		role: 'contador publico',
 		institucion: 'Universidad Francisco de Paula Santander',
 	},
